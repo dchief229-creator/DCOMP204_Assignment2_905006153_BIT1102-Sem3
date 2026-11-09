@@ -5,8 +5,12 @@ A static, front-end-only website that helps students in Sierra Leone find accomm
 > **Note:** All listings, prices and availability are sample data. Confirm everything with the provider before paying.
 
 ## Features
-
 - **Home page** with a hero search box, featured listings, popular areas and a call to action
+<img width="1240" height="3207" alt="Screenshot_9-11-2026_104956_" src="https://github.com/user-attachments/assets/34ca21a1-2b06-496b-93ec-a4ab832e772a" />
+
+**About Page**
+<img width="1240" height="1554" alt="Screenshot_9-11-2026_10537_" src="https://github.com/user-attachments/assets/e632d616-c05c-4888-8d20-ffb92620bda8" />
+
 - **Accommodation and Search pages** with a live filter panel:
   - keyword search
   - area/location
@@ -15,6 +19,17 @@ A static, front-end-only website that helps students in Sierra Leone find accomm
   - facilities (Water, Electricity, Internet)
   - sorting by price, low to high or high to low
   - a "results found" counter and an empty state
+  - 
+**Service Page**
+<img width="1240" height="1228" alt="Screenshot_9-11-2026_105711_" src="https://github.com/user-attachments/assets/db094e42-403a-4ec1-b906-e8e44c6532db" />
+ 
+**Contact Page**
+<img width="1240" height="1493" alt="Screenshot_9-11-2026_10594_" src="https://github.com/user-attachments/assets/ad2b6b18-712f-446c-9b8a-372c521c9ae5" />
+
+**Login/Register Page**
+<img width="1240" height="1329" alt="Screenshot_9-11-2026_11031_" src="https://github.com/user-attachments/assets/357027c3-0875-4f4d-8f23-d4e6d5f2c59c" />
+
+
 - **Listing details dialog** with a photo gallery, price, room type, facilities, availability badge and a "Send enquiry" button that pre-fills the contact form's subject
 - **Save listing** heart toggle on each card
 - **Deep links** such as `search.html?loc=Lumley`, `?q=...`, `?max=...` and `?room=...`
@@ -42,7 +57,7 @@ studentstay-sl/
 
 No build step or dependencies are needed.
 
-1. Unzip the project.
+1. open the project.
 2. Open `studentstay-sl/index.html` in a browser.
 
 To serve it locally instead (recommended, so query-string links behave like a real site):
